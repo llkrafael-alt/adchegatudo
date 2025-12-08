@@ -1,6 +1,6 @@
 {
   "churchName": "AD Chega Tudo",
-  "streamUrl": "https://stm2.voxhd.com.br:8850/stream",
+  "streamUrl": "https://ec2.yesstreaming.net:3925/stream",
   "images": [
  "https://github.com/llkrafael-alt/adchegatudo/blob/main/icon.png?raw=true",
   
